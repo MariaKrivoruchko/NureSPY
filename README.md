@@ -4,7 +4,7 @@
 ## Целевой аудиторией являются сотрудники и студенты университета.
 
 Разработчики:
- * [Фокин Дмитрий] (dmytro.fokin@nure.ua)
+ * [Фокин Дмитрий](mailto:dmytro.fokin@nure.ua)
  * [Легкий Евгений] (mailto:yevhen.lehkyi@nure.ua)
  * [Криворучко Мария] (mailto:mariia.kryvoruchko@nure.ua)
  * [Лозыченко Андрей] (mailto:andrii.lozychenko@nure.ua)
