@@ -10,4 +10,4 @@
  * [Лозыченко Андрей](mailto:andrii.lozychenko@nure.ua)
  * [Пасюга Денис](mailto:denys.pasiuha@nure.ua)
 
- 'git clone https://github.com/NureSPY/NureSPY.git //to download the project '
+ git clone https://github.com/NureSPY/NureSPY.git //to download the project
