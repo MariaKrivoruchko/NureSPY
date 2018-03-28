@@ -5,15 +5,9 @@
 
 ### Разработчики:
  * [Фокин Дмитрий](mailto:dmytro.fokin@nure.ua)
- ***
  * [Легкий Евгений](mailto:yevhen.lehkyi@nure.ua)
- ***
  * [Криворучко Мария](mailto:mariia.kryvoruchko@nure.ua)
- ***
  * [Лозыченко Андрей](mailto:andrii.lozychenko@nure.ua)
- ***
  * [Пасюга Денис](mailto:denys.pasiuha@nure.ua)
 
  `git clone https://github.com/NureSPY/NureSPY.git //to download the project now`
-
- ***
